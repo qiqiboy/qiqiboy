@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [tigerbrokers](https://www.itiger.com), and we are looking for Nodejs/Reactjs/Python/Java/Mac&Windows/Android/IOS developers to [join us](https://www.itiger.com/job).
-- 🔭 当前在老虎证券工作，我们长期招聘 Nodejs、Reactjs、Python、Java、Mac和Windows、Android、IOS 开发工程师，[欢迎加入](https://www.itiger.com/job)！
+- 🔭 I’m currently working on [tigerbrokers](https://www.itiger.com?f=github-qiqiboy), and we are looking for Nodejs/Reactjs/Python/Java/Mac&Windows/Android/IOS developers to [join us](https://www.itiger.com/job?f=github-qiqiboy).
+- 🔭 当前在[老虎证券](https://www.itiger.com?f=github-qiqiboy)工作，我们长期招聘 Nodejs、Reactjs、Python、Java、Mac和Windows、Android、IOS 开发工程师，[欢迎加入](https://www.itiger.com/job?f=github-qiqiboy)！
 
 <!--
 **qiqiboy/qiqiboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
