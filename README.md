@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [tigerbrokers](https://www.itiger.com), and we are looking for Nodejs/Reactjs/Python/Java/Mac&Windows/Android/IOS developers to [join us](https://www.itiger.com/job).
+- 🔭 当前在老虎证券工作，我们长期招聘Nodejs、reactjs、python、javs、mac和Windows、android、ios开发工程师，[欢迎加入](https://www.itiger.com/job)！
+
 <!--
 **qiqiboy/qiqiboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
